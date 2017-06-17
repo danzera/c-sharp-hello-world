@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/danzera/.nuget/packages"
+    ]
+  }
+}

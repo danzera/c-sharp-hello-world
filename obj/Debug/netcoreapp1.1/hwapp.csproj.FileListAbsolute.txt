@@ -1,0 +1,8 @@
+/Users/danzera/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/Users/danzera/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/Users/danzera/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/Users/danzera/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/Users/danzera/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/Users/danzera/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/Users/danzera/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/Users/danzera/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb
